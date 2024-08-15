@@ -1,4 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Connexion581/total)
+![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Statut581/total)
 
 # ⚡ Connexion581 V4.0.0
 
