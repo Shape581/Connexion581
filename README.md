@@ -1,5 +1,3 @@
-![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Statut581/total)
-
 # ⚡ Connexion581 V4.0.0
 
 Connexion581 envoie un message lors d'une connexion d'un joueur avec quelques information sur lui.
