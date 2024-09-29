@@ -15,10 +15,6 @@ Connexion581 envoie un message lors d'une connexion d'un joueur avec quelques in
 - 3 Mettez les fichiers dans le dossier plugin de vôtre serveur
 - 4 Utiliser le plugin
 
-# 🧩  Téléchargement
-
-*[Connexion581](https://github.com/Shape581/Connexion581)*
-
 # 📗  Dépendance
 
 *[ModKit & AAMenu](https://github.com/Aarnow/NovaLife_ModKit-Releases/releases/latest)*
